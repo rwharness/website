@@ -1,0 +1,25 @@
+{
+   "items":[
+      {
+         "id":"Y2RwLXFhLWF1dG9tYXRpb24tMTo5M2I5YjllYjlhN2VjYjA2NWJlYjdkNWUxNDgyMDFjOQ",
+         "repository":"cdp-qa-automation-1",
+         "format":"docker",
+         "group":null,
+         "name":"nginx",
+         "version":"latest",
+         "assets":[
+            {
+               "downloadUrl":"https://nexus3.dev.harness.io/repository/cdp-qa-automation-1/v2/nginx/manifests/latest",
+               "path":"v2/nginx/manifests/latest",
+               "id":"Y2RwLXFhLWF1dG9tYXRpb24tMTo5MTJkMGZlN2I4MTkyMzkyODc0NTUyYTgyZWVmYzhkZQ",
+               "repository":"cdp-qa-automation-1",
+               "format":"docker",
+               "checksum":{
+                  "sha1":"33acb567b9635e73ae566691eb22a89c84138c0b",
+                  "sha256":"bb129a712c2431ecce4af8dde831e980373b26368233ef0f3b2bae9e9ec515ee"
+               }
+            }
+         ]
+      }
+   ]
+}
